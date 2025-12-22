@@ -117,4 +117,9 @@ const toggleMenu = () => {
 a, button {
   transition: all 0.2s ease;
 }
+
+header {
+  position: sticky;
+  top: 0;
+}
 </style>
