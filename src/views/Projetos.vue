@@ -16,10 +16,10 @@
         <div class="bg-neutral-700/30 rounded-xl overflow-hidden hover:bg-neutral-700/40 transition group">
           <div class="p-6">
             <div class="flex justify-between items-start mb-4">
-              <h3 class="text-emerald-400 text-xl font-semibold group-hover:text-emerald-300">
+              <h3 class="text-green-300 text-xl font-semibold group-hover:text-emerald-300">
                 FajaLoja
               </h3>
-              <span class="bg-emerald-500/20 text-emerald-400 text-xs px-3 py-1 rounded-full">
+              <span class="bg-green-300/20 text-green-300 text-xs px-3 py-1 rounded-full">
                 Full Stack
               </span>
             </div>
@@ -32,7 +32,7 @@
               <span class="bg-neutral-800 text-neutral-300 text-xs px-3 py-1 rounded">MySQL</span>
             </div>
             <a href="https://fajaloja.fajatech.com.br" target="_blank" 
-               class="inline-flex items-center text-emerald-400 hover:text-emerald-300">
+               class="inline-flex items-center text-green-300 hover:text-emerald-300">
               Ver projeto →
             </a>
           </div>
@@ -41,7 +41,7 @@
         <div class="bg-neutral-700/30 rounded-xl overflow-hidden hover:bg-neutral-700/40 transition group">
           <div class="p-6">
             <div class="flex justify-between items-start mb-4">
-              <h3 class="text-emerald-400 text-xl font-semibold group-hover:text-emerald-300">
+              <h3 class="text-green-300 text-xl font-semibold group-hover:text-emerald-300">
                 Jogo de Futebol
               </h3>
               <span class="bg-blue-500/20 text-blue-400 text-xs px-3 py-1 rounded-full">
@@ -55,7 +55,7 @@
               <span class="bg-neutral-800 text-neutral-300 text-xs px-3 py-1 rounded">Python</span>
               <span class="bg-neutral-800 text-neutral-300 text-xs px-3 py-1 rounded">Pygame</span>
             </div>
-            <a href="https://www.linkedin.com/posts/matheus-fajardo-3214492b9_python-pygame-activity-7332175580089552897-yu4Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAExrAokBjHGaK9Xp26o0O7Lhw3jUzrjuvtw" class="inline-flex items-center text-emerald-400 hover:text-emerald-300">
+            <a href="https://www.linkedin.com/posts/matheus-fajardo-3214492b9_python-pygame-activity-7332175580089552897-yu4Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAExrAokBjHGaK9Xp26o0O7Lhw3jUzrjuvtw" class="inline-flex items-center text-green-300 hover:text-emerald-300">
               Ver projeto →
             </a>
           </div>
@@ -67,7 +67,7 @@
           Quer ver colaborar em algo?
         </p>
         <RouterLink to="/contato" 
-           class="inline-block bg-emerald-500 hover:bg-emerald-600 text-black px-8 py-3 rounded-lg font-medium transition">
+           class="inline-block bg-green-300 hover:bg-emerald-600 text-black px-8 py-3 rounded-lg font-medium transition">
           Entre em contato
         </RouterLink>
       </div>

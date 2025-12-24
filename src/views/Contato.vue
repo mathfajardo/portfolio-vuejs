@@ -13,7 +13,7 @@
       <div class="mb-16">
         <div class="bg-neutral-700/30 rounded-xl p-8 max-w-2xl">
           <div class="flex items-center mb-4">
-            <div class="w-10 h-10 bg-emerald-500/20 rounded-lg flex items-center justify-center mr-4">
+            <div class="w-10 h-10 bg-green-300/20 rounded-lg flex items-center justify-center mr-4">
               <i class="bi bi-envelope text-white"></i>
             </div>
             <h2 class="text-white text-2xl font-bold">Email</h2>
@@ -22,7 +22,7 @@
           <div class="flex items-center space-x-4">
             <a 
               href="mailto:seu.email@exemplo.com" 
-              class="text-xl text-emerald-400 hover:text-emerald-300 transition"
+              class="text-xl text-green-300 hover:text-emerald-300 transition"
             >
               mathfajardo.contato@hotmail.com
             </a>

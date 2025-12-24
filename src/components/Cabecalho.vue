@@ -14,7 +14,7 @@ const toggleMenu = () => {
       <div class="flex lg:flex-1">
         <RouterLink to="/" class="-m-1.5 p-1.5">
           <div class="text-3xl font-bold text-white">
-            Faja<span class="text-emerald-400">Tech</span>
+            Faja<span class="text-green-300">Tech</span>
           </div>
         </RouterLink>
       </div>
@@ -63,19 +63,19 @@ const toggleMenu = () => {
       <div class="hidden lg:flex lg:gap-x-8">
         <RouterLink
           to="/projetos"
-          class="text-sm font-medium text-neutral-300 hover:text-emerald-400 transition px-3 py-2 rounded-lg hover:bg-neutral-700/30"
+          class="text-sm font-medium text-neutral-300 hover:text-green-300 transition px-3 py-2 rounded-lg hover:bg-neutral-700/30"
         >
           Projetos
         </RouterLink>
         <RouterLink 
           to="/contato" 
-          class="text-sm font-medium text-neutral-300 hover:text-emerald-400 transition px-3 py-2 rounded-lg hover:bg-neutral-700/30"
+          class="text-sm font-medium text-neutral-300 hover:text-green-300 transition px-3 py-2 rounded-lg hover:bg-neutral-700/30"
         >
           Contato
         </RouterLink>
         <RouterLink 
           to="/youtube"
-          class="text-sm font-medium text-neutral-300 hover:text-emerald-400 transition px-3 py-2 rounded-lg hover:bg-neutral-700/30"
+          class="text-sm font-medium text-neutral-300 hover:text-green-300 transition px-3 py-2 rounded-lg hover:bg-neutral-700/30"
         >
           Canal no YouTube
         </RouterLink>
