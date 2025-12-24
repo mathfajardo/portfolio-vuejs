@@ -25,7 +25,7 @@ function slide_anterior() {
 <template>
   <main class="min-h-screen flex items-center">
     <div class="container mx-auto px-4 py-12">
-      <h1 class="text-white text-lg md:text-7xl font-bold mb-4">
+      <h1 class="text-white text-5xl md:text-7xl font-bold mb-4">
         Olá, eu sou
         <span class="text-green-300">Matheus Fajardo</span>
       </h1>
