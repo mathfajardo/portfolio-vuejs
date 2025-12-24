@@ -25,7 +25,7 @@ function slide_anterior() {
 <template>
   <main class="min-h-screen flex items-center">
     <div class="container mx-auto px-4 py-12">
-      <h1 class="text-white text-5xl md:text-7xl font-bold mb-4">
+      <h1 class="text-white text-lg md:text-7xl font-bold mb-4">
         Olá, eu sou
         <span class="text-green-300">Matheus Fajardo</span>
       </h1>
@@ -94,13 +94,13 @@ function slide_anterior() {
             @click="slide_anterior"
             class="absolute left-4 top-1/2 -translate-y-1/2 bg-black/50 hover:bg-black/80 text-white w-10 h-10 rounded-full flex items-center justify-center transition"
           >
-            ‹
+            <i class="bi bi-arrow-left hover:text-green-400"></i>
           </button>
           <button 
             @click="proximo_slide"
             class="absolute right-4 top-1/2 -translate-y-1/2 bg-black/50 hover:bg-black/80 text-white w-10 h-10 rounded-full flex items-center justify-center transition"
           >
-            ›
+          <i class="bi bi-arrow-right hover:text-green-400"></i>
           </button>
 
           <div class="flex justify-center gap-2 mt-6">
