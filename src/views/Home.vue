@@ -81,7 +81,7 @@ function slide_anterior() {
               >
                 <div class="aspect-video rounded-2xl overflow-hidden">
                   <img 
-                    :src="'src/assets/' + image" 
+                    :src="'/' + image" 
                     :alt="`Projeto ${i + 1}`"
                     class="w-full h-full object-cover"
                   />
